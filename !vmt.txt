@@ -1,0 +1,41 @@
+           [ Never line - Nonroot ]
+                   Author 
+     Telegram Yeye_nat | Github Yeye-PID
+                version : 1.0
+       ////////////////\\\\\\\\\\\\\\\\
+            install with > Brevent
+                        
+                        
+ Disclemoer shell :
+- Shell scirpt ini saya bikin untuk mengurangi pengguaan tenaga CPU and Ram dengan memanfaatkan standby Aplikasi ,
+
+Dengan Cara :
+- Mengubah mode standby ke mode dimana Aplikasi distatuskan " Tidak pernah di pake " 
+
+Efek yang didapat :
+- Mengurangi Tenaga CPU and RAM 
+- Peningkatkan Performance
+- Stabilisasi sistem
+
+Recomened :
+- Gaming
+- dayli
+
+Note :
+- shell script ini tidak meyebabkan Aplikasi mana pun Crash dan lag dikerenakan sudah saya susun seteliti mungkin agar tidak bedampak pada aplikasi manapun dill..
+
+Penanggung Jawab 100% By :
+- @Yeye_nat | Telegram
+- Yeye-PID   | Github
+
+install :
+Ekstrak dulu zip ' ATB.zip ' Ke internal
+Lalu Jalankan Perintah down Here :
+sh /sdcard/Shell-Yeye/run.sh
+
+uninstall : RIBOOT YUOR PHONE 
+
+Disclemoer Efek :
+- Maaf jika script nya tidak begitu Berefek pada device kalian kerena tiap Device, Kernel And Versi Andorid Berbeda-beda Susah membuat script nya bekerja 100% dill..
+
+⚠️ Especially for those who want to use my script in your Module, please contact me & add credit @Yeye_nat
